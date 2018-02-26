@@ -19,6 +19,10 @@
     border-top: 2px solid #DDDDDD;
 }
 
+.section a {
+    padding: 10px 0;
+}
+
 .subtitle {
     font-size: 22px;
 }
