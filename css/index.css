@@ -1,3 +1,17 @@
+.navbar-default {
+    background-color: #65baad;
+}
+
+.navbar-default .navbar-brand {
+    color: #ffffff;
+    font-size: 24px;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #ffffff;
+    font-size: 18px;
+}
+
 .jumbotron.special {
     margin-top: 120px;
     margin-bottom: 60px;
