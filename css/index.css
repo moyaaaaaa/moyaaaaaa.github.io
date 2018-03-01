@@ -4,12 +4,13 @@
 
 .navbar-default .navbar-brand {
     color: #ffffff;
-    font-size: 24px;
+    font-size: calc(118% + 0.5vw);
+
 }
 
 .navbar-default .navbar-nav>li>a {
     color: #ffffff;
-    font-size: 18px;
+    font-size: calc(105%% + 0.5vw);
 }
 
 .jumbotron.special {
@@ -20,11 +21,11 @@
 }
 
 .page-title .page-title__title {
-    font-size: 52px;
+    font-size: calc(220% + 0.5vw);
 }
 
 .page-title .page-title__lead {
-    font-size: 18px;
+    font-size: calc(105% + 0.5vw);
 }
 
 .section {
@@ -35,8 +36,9 @@
 
 .section a {
     padding: 10px 0;
+    font-size: calc(78% + 0.5vw);
 }
 
 .subtitle {
-    font-size: 22px;
+    font-size: calc(112.5% + 0.5vw);
 }
